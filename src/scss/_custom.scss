@@ -1,1 +1,22 @@
+$rojo: #f34f51;
+$verde: #0098a3;
+$oscuro: #212121;
+
+$primary: $rojo;
+$secondary: $verde;
+$dark: $oscuro;
+$gray: #b3b3b3;
+
+/* Tipografia */
+$display-font-weight: 900;
+$headings-font-weight: 700;
+
+/**Card**/
+$card-border-color: transparent;
+
+/* LINK */
+
+$nav-link-color: $gray;
+$nav-link-hover-color: darken($gray, 30%);
+
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
